@@ -4,9 +4,8 @@ const { auteur, bot } = require("../config.json")
 module.exports.run = async (client, message, args) => {
     var ping = Math.round(client.ws.ping)
     const PingEmbed = new MessageEmbed()
-        .setColor('#e38f0e')
-        .setTitle('Commande Ping !')
-        .setDescription(`Commande help de ${bot}`)
+        .setColor('#3cff00')
+        .setDescription(`Commande Ping de ${bot}`)
         .addFields(
             { name: 'Ping trouver !', value: `${ping}` },
         )

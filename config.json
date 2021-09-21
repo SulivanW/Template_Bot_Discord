@@ -1,0 +1,14 @@
+{
+    "token": "ton_token",
+    "prefix": "/",
+    "auteur": "Sulivan .W#0001",
+    "bot": "Discord - Bot - Dev - GitHub#4233",
+    "version": "1.0.0",
+    "bdd": {
+        "host": "ip_bdd",
+        "port": "port_bdd",
+        "user": "username_bdd",
+        "password": "mdp_bdd",
+        "database": "name_bdd"
+    }
+}

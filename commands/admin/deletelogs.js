@@ -12,7 +12,7 @@ module.exports = {
 			.setDescription("Commande uniquement dans un serveur !")
 			message.channel.send({ embeds: [error] })
         } else {
-                        connection.query(`DELETE FROM channellogs WHERE discord = "${message.author.id}"`)
+                        connection.query(`DELETE FROM channellogs WHERE serverid = "${message.guild.id}"`)
                         const réussite = new MessageEmbed()
                         .setColor("#00ff00")
                         .setTitle('Réussite !')

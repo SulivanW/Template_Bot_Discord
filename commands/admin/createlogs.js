@@ -12,7 +12,7 @@ module.exports = {
 			.setDescription("Commande uniquement dans un serveur !")
 			message.channel.send({ embeds: [error] })
         } else {
-        connection.query(`SELECT * FROM channellogs WHERE discord = "${message.author.id}"`, (err, result) => {
+        connection.query(`SELECT * FROM channellogs WHERE serverid = "${message.guild.id}"`, (err, result) => {
             if (err) throw err
 
             if (result.length == 0) {

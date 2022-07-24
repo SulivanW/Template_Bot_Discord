@@ -10,3 +10,5 @@
 📫 Reach me via e-mail: sulivan@open-all.fr
 
 `Bot Discord Open-Source Repositories`
+
+# PLEASE RESPECT MY CREDIT !!!

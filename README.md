@@ -1,4 +1,4 @@
-# BotDiscord
+# Template Bot Discord
 👋 Hi, I’m @SulivanW
 
 👀 I am interested in coding and internet networks

@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to DiscordBot Teamplate by Sulivan.W
 
 You can use the [editor on GitHub](https://github.com/SulivanW/Template_Bot_Discord/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 

@@ -1,2 +1,2 @@
-# Template_Bot_Discord
-Bot Discord Open-Source
+# Template BotDiscord
+By Sulivan.W#0001
